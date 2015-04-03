@@ -1,6 +1,6 @@
 # Seiji
 
-TODO: Write a gem description
+Seiji is a great classmate. Ask him a quesiton and he'll try to help you!
 
 ## Installation
 
