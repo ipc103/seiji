@@ -20,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Type 'seiji' from the command line to run. Type 'exit' to quit. 
 
 ## Contributing
 
