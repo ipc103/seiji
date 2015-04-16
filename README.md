@@ -1,6 +1,6 @@
 # Seiji
 
-Seiji is a great classmate. Ask him a quesiton and he'll try to help you!
+Seiji is a great classmate. Ask him a quesiton and he'll try to help you! Type 'seiji' to get started. 
 
 ## Installation
 
