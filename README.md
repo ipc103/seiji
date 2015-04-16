@@ -1,3 +1,6 @@
+[![Gem Version](https://badge.fury.io/rb/seiji.svg)](http://badge.fury.io/rb/seiji)
+[![Code Climate](https://codeclimate.com/repos/552d6ad96956804b0f003b14/badges/42a991fe300e3d5f0572/gpa.svg)](https://codeclimate.com/repos/552d6ad96956804b0f003b14/feed)
+
 # Seiji
 
 Seiji is a great classmate. Ask him a quesiton and he'll try to help you!
